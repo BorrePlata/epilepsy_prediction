@@ -66,6 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Author: Samuel Plata  
 Email: [Your Email]  
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://www.linkedin.com/in/samuel-plata-mart%C3%ADnez-2bb271108/)
 
 We aim to develop an effective and precise tool for early detection of epileptic seizures, which not only predicts events in advance but also identifies different types of epilepsy. We seek to improve the management and treatment of epilepsy, enabling healthcare professionals to better anticipate and respond to epileptic episodes.
